@@ -16,6 +16,7 @@ struct mahasiswa{
 
  int main (){
     //Membuat object struct mahasiswa
+    
     mahasiswa mhs[2];
 
     for(int n = 0;n <2; n++){
